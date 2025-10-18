@@ -17,3 +17,6 @@ notas asignaturas:
 Desarrollo Full-Stak:8.5
 Ingles técnico: 8
 IPE 2: 10
+Despliegue de Aplicaciones Web:9
+Diseño de interfaces web:9
+Desarrollo Web en Entorno Servidor:8
