@@ -1,5 +1,4 @@
-PARA VER UNA DOCUMENTACIÓN MAS COMPLETA CON CAPTURAS DE PANTALLA, EN CLASSROOM HE SUBIDO UN ARCHIVO PDF MUCHO MAS COMPLETO.
-
+Parte 2. Ejercicios libres (Resueltos, replicarlos)
 hemos creado el archivo notas y lo abrimos con visual para añadir asignaturas
 Hacemos commit y push para guardarlo y subirlo.
 Hemos abierto el archivo de notas y hemos añadido nuevas asignaturas
@@ -35,7 +34,6 @@ Ahora cambiamos a la rama main, abrimos code y vamos a volver a modificar las no
 Ahora hacemos el commit y lo subimos a GitHub
 Ahora fusionamos y tenemos que resolver el conflicto
 Ahora marcamos el conflicto como resuelto y subimos los cambios a GitHub
-Ahora creamos el archivo conflicto.md para documentar cómo resolvimos esto
-Hacemos commit y subimos a GitHub
 Crear un tag ligero y subirlo a GitHub
 Crear un tag anotado con mensaje
+Ahora creamos el archivo EJERCICIOS.md para comentar estos ejercicios que hemos hecho. De igual manera, aquí encontraremos lo mismo que en este archivo.
