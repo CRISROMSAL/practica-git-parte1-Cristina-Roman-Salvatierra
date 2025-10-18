@@ -4,3 +4,4 @@ Hobbies:
 Tejer prendas de crochet 
 Ver peliculas y series
 Pasar tiempo con mi perro
+Mi pelicula favorita es el Diario de Noa
