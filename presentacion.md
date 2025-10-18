@@ -4,4 +4,5 @@ Hobbies:
 Tejer prendas de crochet 
 Ver peliculas y series
 Pasar tiempo con mi perro
-Mi pelicula favorita es Harry Potter
+Mi pelicula favorita es Harry Potter y el Diario de Noa
+
