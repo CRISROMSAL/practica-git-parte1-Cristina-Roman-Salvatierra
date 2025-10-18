@@ -12,3 +12,8 @@ Tareas pendientes:
 Terminar la entrega de Git
 Repasar Desarrollo Web en Entorno Servidor
 Repasar Desarrollo Web en Entorno Cliente
+
+notas asignaturas:
+Desarrollo Full-Stak:8.5
+Ingles técnico: 8
+IPE 2: 10
